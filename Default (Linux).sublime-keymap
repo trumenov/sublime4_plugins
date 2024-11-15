@@ -1,0 +1,14 @@
+[
+  { "keys": ["ctrl+w"], "command": "toggle_side_bar" },
+  // { "keys": ["ctrl+shift+l"], "command": "side_bar_copy_name" },
+  // { "keys": ["ctrl+l"], "command": "copy_path" },
+  { "keys": ["ctrl+l"], "command": "copy_filename" },
+  { "keys": ["ctrl+shift+l"], "command": "copy_relative_path" },
+  { "keys": ["ctrl+shift+k"], "command": "snake_to_camel" },
+  { "keys": ["ctrl+alt+k"], "command": "camel_to_snake" },
+  { "keys": ["ctrl+click"], "command": "noop" },
+  { "keys": ["ctrl+shift+click"], "command": "noop" },
+  { "keys": ["ctrl+alt+up"], "command": "noop" },
+  { "keys": ["ctrl+alt+down"], "command": "noop" }
+  // { "keys": ["ctrl+shift+l"], "command": "copy_name" },
+]
